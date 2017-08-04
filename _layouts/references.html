@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="references">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  
+  <div>
+
+    <h2>The following is editable by markdown</h2>
+    <div>
+      {{ content }}
+    </div>
+  
+    <hr>
+
+    <h2>This is hardcoded into the template</h2>
+
+    <ul>
+      <li>
+        {% include references/example.html %}
+      </li>
+      <li>
+        {% include references/example.html %}
+      </li>
+      <li>
+        {% include references/example.html %}
+      </li>
+    </ul>
+
+  </div>
+</div>
