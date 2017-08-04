@@ -12,7 +12,7 @@ We do audits and manage accounts.
 We can hand hold you through the process.
 
 ### Experience
-Ask our customers..! [References](somewhere).
+Ask our customers..! [References](/references).
 
 
 ### Social resposibility

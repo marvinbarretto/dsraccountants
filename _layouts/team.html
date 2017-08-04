@@ -1,0 +1,26 @@
+---
+layout: page
+---
+<div class="team">
+
+  <h2>The following is editable by markdown</h2>
+  <div>
+    {{ content }}
+  </div>
+
+  <hr>
+
+  <h2>This is hardcoded into the page template</h2>
+
+  <ul>
+    <li>
+      {% include team/dave.html %}
+    </li>
+    <li>
+      {% include team/dave.html %}
+    </li>
+    <li>
+      {% include team/dave.html %}
+    </li>
+  </ul>
+</div>
