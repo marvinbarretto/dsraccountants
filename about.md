@@ -20,8 +20,8 @@ We can hand hold you through the process.
 ### Experience
 Ask our customers..! [References](/references).
 
-### Social resposibility
+### Social responsibility
 A little bit about what we do. [Find out more](somewhere).
 
 
-Call us on 020 XXX XXXX
+Call us on {{site.telephone}}

@@ -3,10 +3,16 @@ layout: default
 ---
 
 # Welcome to DSR
-We are an established business with over 45 years of experience in meeting our clients needs.
-We offer the personal touch in an impersonal world
 
-## Second guesing your needs
-## Next steps for user to take
+(group shot for background?)
 
-## Call us today!  {{site.telephone}}
+- established, 45 years of experience
+- personal touch
+
+
+## Take a closer look our services
+## What sets us apart?
+## Our approach
+
+See how we can help your business
+## Call us today {{site.telephone}}
