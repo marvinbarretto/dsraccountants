@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social repsonsibility
-permalink: /social-responsibility/
+permalink: "/social-responsibility/"
 ---
 
 
@@ -16,3 +16,4 @@ We are proud of the following facts but are still striving to improve upon them.
 * We purchase papers from a supplier who source from responsible sources - FSC approved.
 * All our documents are kept electronically to limit our dependence on paper.
 * We reuse unwanted printed papers.
+
